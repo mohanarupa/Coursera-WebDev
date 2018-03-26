@@ -1,2 +1,2 @@
 # Coursera-WebDev
-Coursera Web Dev course
+Coursera Web Dev course Assignments
