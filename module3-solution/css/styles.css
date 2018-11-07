@@ -1,1 +1,19 @@
+.navbar {
+    background-color: rgb(60, 186, 236);
+}
 
+.navbar-header .navbar-toggle {
+    
+    border-color: black;
+}
+
+
+#menu-items { 
+    background-color: rgb(133, 245, 226);
+    
+}
+
+ #main-content {
+    
+    margin: 25px 25px 25px;
+}
